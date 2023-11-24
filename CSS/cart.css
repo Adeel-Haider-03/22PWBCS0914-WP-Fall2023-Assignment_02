@@ -1,0 +1,21 @@
+
+
+        body{
+            background-color: #f4f4f4;
+        }
+        #bookList{
+        border: 2px solid;
+        margin-bottom: 10px;
+        }
+    .navbar-brand{
+        padding: 10px;
+    }
+
+    h5{
+        color: black;
+    }
+
+    .table th{
+        border: 2px solid;
+        background-color: blanchedalmond;
+    }

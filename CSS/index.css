@@ -1,0 +1,19 @@
+.navbar-brand{
+    padding: 10px;
+  }
+
+  #carouselExampleCaptions .carousel-inner img {
+height: 600px; 
+object-fit: cover;
+}
+
+h5 span{
+text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+font-weight: bold;
+color: white;
+}
+
+.btn-dark:hover {
+color:red;
+background-color: black;
+}
